@@ -21,7 +21,7 @@ To get the project [test coverage](https://community.sonarsource.com/t/coverage-
 Java8 builds
 =====
 This flavour of the tutorial is built on purpose with dependencies on JDK 8 Corba libraries (removed from JDK11). It includes code generated with jidl tool, which was not meant to be analyzed.
-This code wasn't meant to be run, do not use or include such code in any of your application.
+This code wasn't meant to be run, do not use it, or any binary built from it, in any of your application.
 
 The analysis of this project on JDK11 requires two steps
 * on jdk8
